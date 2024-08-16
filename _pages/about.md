@@ -10,7 +10,7 @@ Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member
 
 **宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.04/100，专业排名1/30，目前已拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，科研方向为人工智能、机器学习、技术创新等。
 
-Email：[uibe_henry@163.com/202125015@uibe.edu.cn](mailto:uibe_henry@163.com/202125015@uibe.edu.cn)
+Email：[uibe_henry@163.com](mailto:uibe_henry@163.com)/[202125015@uibe.edu.cn](mailto:202125015@uibe.edu.cn)
 
 Location：No. 10 Huixin East Street, Chaoyang District, Beijing
 
