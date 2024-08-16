@@ -50,5 +50,5 @@ Research Experience
 For more info
 ------
 If you are interested, please contact me with email!!    
-See @暖阳学长 at Xiaohongshu for my postgraduate recommendation experiences!!    
+See [@暖阳学长](https://www.xiaohongshu.com/user/profile/61e137d8000000001000de47) at Xiaohongshu for postgraduate recommendation experiences!!    
 To be continued......    
