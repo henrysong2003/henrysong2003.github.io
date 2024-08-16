@@ -6,8 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member of the CPC, is a junior undergraduate majoring in Information Management & Information Systems at Information and Management School of [University of International Business and Economics](https://www.uibe.edu.cn/). During college, he won **6+ national awards**, **6+ provincial awards**, and more than 10 university-level awards, including the **“National Scholarship”, “Beijing Merit Students”**, etc. His comprehensive weighted score in the first six semesters is 91.04/100, ranking 1 out of 30 in the major. His research interests include artificial intelligence, machine learning, and technological innovation.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.04/100，专业排名1/30，目前已拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，科研方向为人工智能、机器学习、技术创新等。
+
+Email：[uibe_henry@163.com/202125015@uibe.edu.cn](mailto:uibe_henry@163.com/202125015@uibe.edu.cn)
+
+Location：No. 10 Huixin East Street, Chaoyang District, Beijing
+
+MBTI：Advocate (INFJ-T)
 
 A data-driven personal website
 ======
