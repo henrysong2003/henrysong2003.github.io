@@ -49,6 +49,6 @@ Research Experience
 
 For more info
 ------
-If you are interested, please contact me with email!!
-See @暖阳学长 at Xiaohongshu for my postgraduate recommendation experiences!!
-To be continued......
+If you are interested, please contact me with email!!    
+See @暖阳学长 at Xiaohongshu for my postgraduate recommendation experiences!!    
+To be continued......    
