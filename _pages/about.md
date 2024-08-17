@@ -11,9 +11,7 @@ Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member
 **宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.04/100，专业排名1/30，目前已拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，科研方向为人工智能、机器学习、技术创新等。
 
 Email：[uibe_henry@163.com](mailto:uibe_henry@163.com)/[202125015@uibe.edu.cn](mailto:202125015@uibe.edu.cn)
-
 Location：No. 10 Huixin East Street, Chaoyang District, Beijing
-
 MBTI：Advocate (INFJ-T)
 
 Selected Honors
@@ -44,15 +42,13 @@ Selected Awards
 
 Research Experience
 ------
-1. **教育部哲学社会科学重大课题攻关项目：全球经贸规则重构背景下的WTO改革研究**
-   （本科生科研小组负责人）
+1. **教育部哲学社会科学重大课题攻关项目：全球经贸规则重构背景下的WTO改革研究**（科研小组负责人）
 - 基于Python Flask框架+MongoDB数据库架构开发，致力于简洁、直观、深入地呈现全球FTA的发展脉络和利用价值，在服务政府决策、学术研究与企业国际化方面有着十分广阔的应用前景。
 - 基于Selenium+Beautiful Soup爬取了1950年-2023年在WTO组织签订的RTA区域贸易协定文本，利用文本内容构建倒排索引，并存储在MongoDB数据库中，以此构建国际经贸规则的RTA检索系统，用户可查询从1950年至今的全球经贸规则协定文件。
 - 基于机器学习方法（如Word2Vec模型）对国际经贸规则文本进行相似度比对，以百分比返回文本相似度结果。政府官员可基于比对结果进行贸易谈判和报告撰写，跨国企业可利用比对结果进行政策调研等。
 - 系统链接：[国际经贸规则虚拟实验室](http://www.ietr.com.cn/)
 
-2. **高等学校虚拟仿真教学创新实验室项目：“双碳”政策文本智能分析实验室**
-   （本科生开发团队组长）
+2. **高等学校虚拟仿真教学创新实验室项目：“双碳”政策文本智能分析实验室**（开发团队组长）
 - 本项目基于中国、美国与欧盟各国的双碳相关政策、新闻与学术文章等文本，利用开源搜索引擎Elastic Search构建“双碳”政策搜索引擎，支持中英文双语查询，基于此进行后续学术研究。
 - 为了解各国政府对“双碳”目标实现的观点和措施，基于BERTopic对双碳政策进行主题建模，利用SnowNLP进行情感分析，构建TextRank算法进行关键词抽取，得到各国双碳政策的主题分布及关键词，以及不同国家对“双碳”目标的情感倾向。
 
@@ -77,5 +73,7 @@ Activities in University
 For more info
 ------
 If you are interested, please contact me with email!!    
+
 See [@暖阳学长](https://www.xiaohongshu.com/user/profile/61e137d8000000001000de47) at Xiaohongshu for postgraduate recommendation experiences!!    
+
 To be continued......    
