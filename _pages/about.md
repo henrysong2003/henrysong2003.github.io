@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member of the CPC, is a junior undergraduate majoring in Information Management & Information Systems at Information and Management School of [University of International Business and Economics](https://www.uibe.edu.cn/). During college, he won **6+ national awards**, **6+ provincial awards**, and more than 10 university-level awards, including the **“National Scholarship”, “Beijing Merit Students”**, etc. His comprehensive weighted score in the first six semesters is 91.04/100, ranking 1 out of 30 in the major. His research interests include artificial intelligence, machine learning, and technological innovation.
+Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member of the CPC, is a junior undergraduate majoring in Information Management & Information Systems at Information and Management School of [University of International Business and Economics](https://www.uibe.edu.cn/). During college, he won **6+ national awards**, **6+ provincial awards**, and more than 10 university-level awards, including the **“National Scholarship”, “Beijing Merit Student”**, etc. His comprehensive weighted score in the first six semesters is 91.04/100, ranking 1 out of 30 in the major. His research interests include artificial intelligence, machine learning, and technological innovation.
 
 **宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.04/100，专业排名1/30，目前已拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，科研方向为人工智能、机器学习、技术创新等。
 
@@ -15,6 +15,19 @@ Location：No. 10 Huixin East Street, Chaoyang District, Beijing
 MBTI：Advocate (INFJ-T)
 
 Selected Honors
+------
+1. 2021-2022 University-level Outstanding Student（First Semester）
+2. 2021-2022 University Comprehensive First-Class Scholarship (First Semester)
+3. 2021-2022 University-level Outstanding Student（Second Semester）
+4. 2021-2022 University Comprehensive First-Class Scholarship (Second Semester)
+5. 2022-2023 University-level Outstanding Student
+6. 2022-2023 University Comprehensive First-Class Scholarship
+7. 2022-2023 University-level Competition Winner Third Prize(Group)
+8. **2022-2023 National Scholarship (Top 1%)**
+9. 2022 UIBE International Summer School Excellent Volunteer
+10. **2022-2023 Beijing Merit Student (The Only One in Major)**
+
+荣誉称号
 ------
 1. 2021-2022学年校级优秀学生（First Semester）
 2. 2021-2022学年综合一等奖学金（First Semester）
@@ -28,6 +41,19 @@ Selected Honors
 10. **2022-2023年度北京市三好学生（年级唯一）**
 
 Selected Awards
+------
+1. **National Second Prize** in 2024 (17th) China College Student Computer Programming Design Competition
+2. **Honorable Mention Award** in Mathematical/Interdisciplinary Contest in Modeling（MCM/ICM）
+3. **First Prize in Beijing** in 2024 "Zhengda Cup" (14th) National College Student Market Research and Analysis Competition
+4. **First Prize in Beijing** in 2024 China College Student Computer Programming Design Competition (Shuori Cup)
+5. **National Third Prize** in 2023 (13th) MathorCup Mathematical Modeling Challenge for College Students
+6. **National Third Prize** in 2023 (14th) National College Student Mathematics Competition
+7. **National Third Prize** in 2022 National English Competition for College Students(Category C)
+8. **Second Prize in Beijing** in 2022 (33rd) Beijing College Student Mathematics Competition
+9. **First Prize in North China** in 2023 (13th) National College Student Red Tourism Creative Planning Competition
+10. Other University-level Awards...
+
+竞赛奖项
 ------
 1. 2024年（第17届）中国大学生计算机设计大赛国家二等奖
 2. 美国大学生数学建模竞赛Honorable Mention奖项（国际二等奖）
@@ -43,7 +69,7 @@ Selected Awards
 Research Experience
 ------
 1. **教育部哲学社会科学重大课题攻关项目：全球经贸规则重构背景下的WTO改革研究**（科研小组负责人）
-- 基于Python Flask框架+MongoDB数据库架构开发，致力于简洁、直观、深入地呈现全球FTA的发展脉络和利用价值，在服务政府决策、学术研究与企业国际化方面有着十分广阔的应用前景。
+- 基于Python Flask+MongoDB数据库架构开发，致力于简洁、直观、深入地呈现全球FTA的发展脉络和利用价值，在服务政府决策、学术研究与企业国际化方面有着十分广阔的应用前景。
 - 基于Selenium+Beautiful Soup爬取了1950年-2023年在WTO组织签订的RTA区域贸易协定文本，利用文本内容构建倒排索引，并存储在MongoDB数据库中，以此构建国际经贸规则的RTA检索系统，用户可查询从1950年至今的全球经贸规则协定文件。
 - 基于机器学习方法（如Word2Vec模型）对国际经贸规则文本进行相似度比对，以百分比返回文本相似度结果。政府官员可基于比对结果进行贸易谈判和报告撰写，跨国企业可利用比对结果进行政策调研等。
 - 系统链接：[国际经贸规则虚拟实验室](http://www.ietr.com.cn/)
