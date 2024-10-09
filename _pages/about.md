@@ -8,7 +8,7 @@ redirect_from:
 ---
 Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member of the CPC, is a senior undergraduate majoring in Information Management & Information Systems at Information and Management School of [University of International Business and Economics](https://www.uibe.edu.cn/). During college, he won **6+ national awards**, **6+ provincial awards**, and more than 10 university-level awards, including the **“National Scholarship”, “Beijing Merit Student”**, etc. His comprehensive weighted score is 91.98/100, GPA is 3.94/4, ranking 1 out of 151 in the major. His research interests include artificial intelligence, machine learning, and technological innovation.
 
-**宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.98/100，GPA为3.94/4，成绩排名1/151（专业第一），目前已拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，科研方向为人工智能、机器学习、技术创新等。
+**宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、北京市三好学生等。前六学期综合加权成绩为91.98/100，GPA为3.94/4，成绩排名1/151（专业第一），保研过程中拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，最终去向为**中国人民大学信息学院**，科研方向为人工智能、机器学习、技术创新等。
 
 Email：[uibe_henry@163.com](mailto:uibe_henry@163.com)/[202125015@uibe.edu.cn](mailto:202125015@uibe.edu.cn)  
 
@@ -28,6 +28,7 @@ Selected Honors
 8. **2022-2023 National Scholarship (Top 1%)**
 9. 2022 UIBE International Summer School Excellent Volunteer
 10. **2022-2023 Beijing Merit Student (The Only One in Major)**
+11. **2024 World Internet Conference Leading Technology Award**
 
 荣誉称号
 ------
@@ -41,6 +42,7 @@ Selected Honors
 8. **2022-2023年度国家奖学金（Top 1%）**
 9. 2022年度暑期国际学校优秀志愿者
 10. **2022-2023年度北京市三好学生（年级唯一）**
+11. **2024年世界互联网大会领先科技奖收录成果集《科技之魅》**
 
 Selected Awards
 ------
@@ -102,6 +104,6 @@ For more info
 ------
 If you are interested, please contact me with email!!    
 
-See [@暖阳学长](https://www.xiaohongshu.com/user/profile/61e137d8000000001000de47) at Xiaohongshu for postgraduate recommendation experiences!!    
+See [@暖阳](https://www.xiaohongshu.com/user/profile/61e137d8000000001000de47) at Xiaohongshu for postgraduate recommendation experiences!!    
 
 To be continued......    
