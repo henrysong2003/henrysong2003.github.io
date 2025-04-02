@@ -102,7 +102,7 @@ Activities in University
 6. “强国有我行中华 青春有为报祖国”暑期社会实践活动（2023）
 7. 对外经济贸易大学慢投垒球新生赛三等奖（2023）
 8. IAA Public Affairs Department Member (2024)
-9. 2025中关村论坛“ZGC Forum”志愿者【强烈推荐参加】
+9. **2025中关村论坛“ZGC Forum”志愿者【强烈推荐参加】**
 
 For more info
 ------
