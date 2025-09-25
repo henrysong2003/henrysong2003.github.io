@@ -6,13 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jincheng Song（Henry Song）, from Ganzhou City, Jiangxi Province, party member of the CPC, is a graduate student majoring in Management Science at Information School of [Renmin University of China]([https://www.uibe.edu.cn/](https://www.ruc.edu.cn)). During undergraduate, he won **10+ National and Provincial Awards**, and more than 10 university-level awards, including the **“National Scholarship”, "Xiaomi Top Grade Scholarship", “Beijing Merit Student”, "Outstanding Graduate of Beijing"**, etc. His research interests include artificial intelligence, Retrieval-Augmented Generation, and technological innovation.
+Jincheng Song（Henry Song）is a graduate student majoring in Management Science at Information School of [Renmin University of China]([https://www.uibe.edu.cn/](https://www.ruc.edu.cn)). During undergraduate, he won **10+ National and Provincial Awards**, and more than 10 university-level awards, including the **“National Scholarship”, "Xiaomi Top Grade Scholarship", “Beijing Merit Student”, "Outstanding Graduate of Beijing"**, etc. His research interests include artificial intelligence, Retrieval-Augmented Generation, and technological innovation.
 
-**宋金成**，江西赣州人，中共党员，对外经济贸易大学信息学院**信息管理与信息系统专业**2021级本科生，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、小米特等奖学金、北京市优秀毕业生、北京市三好学生、2024世界互联网大会领先科技奖等。前六学期综合加权成绩为91.98/100，GPA为3.94/4，成绩排名1/151（专业第一），保研过程中拿到**中国人民大学、浙江大学、国防科技大学等**保研offer，最终去向为**中国人民大学信息学院**，科研方向为人工智能、机器学习、技术创新等。
+**宋金成**，中国人民大学信息学院**管理科学与工程**硕士在读，在校期间荣获**6+项国家级奖项，6+项省部级奖项**，10+项校级奖项，包括国家奖学金、小米特等奖学金、北京市优秀毕业生、北京市三好学生、2024世界互联网大会领先科技奖等。科研方向为人工智能、机器学习、技术创新等。
 
-Email：[uibe_henry@163.com](mailto:uibe_henry@163.com)/[202125015@uibe.edu.cn](mailto:202125015@uibe.edu.cn)  
-
-Location：No. 10 Huixin East Street, Chaoyang District, Beijing  
+Email：[uibe_henry@163.com](mailto:uibe_henry@163.com)/[2025104039@ruc.edu.cn](mailto:2025104039@ruc.edu.cn)  
 
 MBTI：ENFJ
 
